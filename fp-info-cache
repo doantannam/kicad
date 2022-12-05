@@ -1,4 +1,4 @@
-20586761452990149
+20593433817830492
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53234,6 +53234,20 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+G3MB-202PDC5
+RELAY_G3MB-202PDC5
+
+
+0
+4
+4
+G3MB-202PDC12
+RELAY_G3MB202PDC12
+
+
+0
+4
+4
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -85665,6 +85679,13 @@ igbt diode module
 0
 25
 25
+USB-B-S-X-X-TH
+SAMTEC_USB-B-S-X-X-TH
+
+
+0
+6
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -86442,3 +86463,10 @@ varistor
 0
 2
 2
+button-sw
+TE_3-1825910-1
+
+
+0
+4
+4
